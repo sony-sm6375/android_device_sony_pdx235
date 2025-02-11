@@ -3,3 +3,7 @@ ro.audio.monitorRotation=true
 
 # Bluetooth
 bluetooth.device.default_name=Xperia 10 V
+
+# Fingerprint
+persist.vendor.fingerprint.type=side
+persist.vendor.fingerprint.sensor_location=1080|1104|240|local:4630946521025525377
